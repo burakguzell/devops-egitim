@@ -1,2 +1,3 @@
-"Bu dosya yeni branch zerinde oluŸturuldu." 
-"Bu satr MAIN branch'te eklendi." 
+Bu dosya yeni branch üzerinde oluşturuldu.
+Bu satır MAIN branch'te eklendi.
+Bu satır DENEME-BRANCH'te eklendi.
