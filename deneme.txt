@@ -1,1 +1,2 @@
 "Bu dosya yeni branch Åzerinde oluüturuldu." 
+"Bu satçr DENEME-BRANCH'te eklendi." 
